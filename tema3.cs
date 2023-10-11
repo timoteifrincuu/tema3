@@ -15,7 +15,8 @@ class Program
                 int rezultat = A & B;
                 Console.WriteLine($"| {A} | {B} | {rezultat} |");
             }
-            Console.WriteLine("------------------");
+           
         }
+         Console.WriteLine("------------------");
     }
 }
