@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("| A | B | A & B |");
         Console.WriteLine("------------------");
 
-        for(int A = 0;A as <=1; A++)
+        for(int A = 0;A  <=1; A++)
         {
             for (int B = 0; B <= 1; B++)
             {
